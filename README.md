@@ -6,7 +6,7 @@ This repo contains programming exercises as a part of the Final Project for a Di
 
 ### Files and Algorithms
 
-There are three
+There are three files to cover three greedy algorithm implementations.
 
 ## 01 - Cashier's Algorithm
 
