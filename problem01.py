@@ -1,5 +1,5 @@
 # Problem Statement: Given an integer n, use the cashier's algorithm to find the change for n cents using 
-# quarters, dimes, nickles, and pennies,
+# quarters, dimes, nickel, and pennies,
 
 """
 Cashier's Algorithm:
